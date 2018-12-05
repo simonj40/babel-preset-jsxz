@@ -8,6 +8,6 @@
   "repository": "https://github.com/awetzel/babel-preset-jsxz",
   "main": "src/index.js",
   "dependencies": {
-    "babel-plugin-transform-jsxz": "^1.0.0"
+    "babel-plugin-transform-jsxz": "github:simonj40/babel-plugin-transform-jsxz"
   }
 }
